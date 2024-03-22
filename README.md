@@ -1,1 +1,1 @@
-[ML](/main.md)
+[Machine Learning](/main.md)
