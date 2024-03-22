@@ -1,1 +1,1 @@
-[ML] (/main.md)
+[ML](/main.md)
